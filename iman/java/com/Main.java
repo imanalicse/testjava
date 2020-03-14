@@ -1,18 +1,20 @@
 package iman.java.com;
 
-public class Main {
-
-    public static void main(String[] args) {
-
-        Person person = new Person();
-        if (person != null) {
-
-        }
+class A {
+    int data = 40;
+    private A(){
+      System.out.println("A created");
+    }
+    public A(int data) {
+        this.data = data;
+    }
+    public static void main(String args[]) {
+        A a = new A();
+        System.out.println(a.data);
     }
 }
-
-class Person {
-    public void printName() {
+class Test {
+    public static void main(String args[]) {
 
     }
 }
