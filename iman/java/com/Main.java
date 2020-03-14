@@ -1,5 +1,9 @@
 package iman.java.com;
 
+class stash {
+
+}
+
 class A {
     int data = 40;
     private A(){
