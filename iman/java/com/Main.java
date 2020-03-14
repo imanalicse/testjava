@@ -25,6 +25,6 @@ class Test {
 
         System.out.println("change from master");
         System.out.println("hello master 22");
-        System.out.println("world class 55");
+        System.out.println("world class 88");
     }
 }
