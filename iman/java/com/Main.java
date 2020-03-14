@@ -15,6 +15,6 @@ class A {
 }
 class Test {
     public static void main(String args[]) {
-        System.out.println("change from local");
+        System.out.println("change from local 22");
     }
 }
