@@ -4,6 +4,9 @@ class stash {
 
 }
 
+class stash2 {
+
+}
 class A {
     int data = 40;
     private A(){
